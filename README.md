@@ -1,2 +1,6 @@
 # doctesting
-Hi there
+
+This is an embedded image
+
+![Traditional Approach](/images/traditionalapproach.png)
+
